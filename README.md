@@ -1,7 +1,12 @@
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗ꫂ<br></h1>
+<h1 align="center">𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧-𝗠𝗗<br></h1>
 <p align="center">
-  <img src="https://telegra.ph/file/8adfac9d34c43ce444fbf.jpg" width="540" height="300" />
+  
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝗣𝗥𝗜𝗡𝗖𝗘+𝗦𝗘𝗥+𝗠𝗗+𝘽𝙊𝙏+𝙍𝙀𝗣𝗢𝗣𝗘𝗗.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝗣𝗥𝗜𝗡𝗖𝗘+𝗦𝗘𝗥;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝗦𝗣𝗔𝗖𝗜𝗟𝗜𝗖𝗘𝗗+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+
+ </a>
 </p>
+
+<img src="https://i.imgur.com/7PdGMnb.png" width="500" height="300" />
 
 <p align="center">
 Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
