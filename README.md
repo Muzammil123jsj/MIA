@@ -58,8 +58,8 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L25)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L30)
+- CHANGE OWNER NUMBER [918590565968](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L25)
+- CHANGE OWNER NAME [Prince](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L30)
 - CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L29)
 
 ## ` BUILDPACKS`
